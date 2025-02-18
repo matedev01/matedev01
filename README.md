@@ -29,7 +29,7 @@ I offer bespoke embedded software development services for ARM Cortex M/R/A proc
 </h3>
 </div>
 </td>
-</tr>
+
 
 
 
