@@ -30,7 +30,7 @@ I offer bespoke embedded software development services for ARM Cortex M/R/A proc
 </div>
 </td>
 </tr>
-<tr>
+
 
 
 <td valign="top" width="50%">
