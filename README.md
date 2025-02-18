@@ -61,21 +61,5 @@ I am enjoying programming, helping Others, Contributing Open Source Project.
 </tr>
 </table>  
 </table>
-<table border=0>
-<tr>
-  <h2 align="center">
-  Products
-  </h2> 
-<td valign="top" width="33%">
-  <img src="./IoT Device.jpg" align="center" style="width: 100%" />
-<td/>
-<td valign="top" width="33%">
-  <img src="./Xillinx.jpg" align="center" style="width: 100%" />
-<td/>
-<td valign="top" width="33%">
-  <img src="./PCB.jpg" align="center" style="width: 100%" />
-<td/>
-</tr>
-</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
